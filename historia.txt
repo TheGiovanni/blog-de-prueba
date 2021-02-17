@@ -8,4 +8,4 @@ el
 estado 
 de 
 yucatan
-hoy dará un ejemplo
+hoy dará un ejemplo de como se trabaja en git
