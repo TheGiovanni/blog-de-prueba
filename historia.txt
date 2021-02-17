@@ -1,4 +1,4 @@
-esta es una muestra
+﻿esta es una muestra
 
 para probar git
 
@@ -8,3 +8,4 @@ el
 estado 
 de 
 yucatan
+hoy dará un ejemplo
