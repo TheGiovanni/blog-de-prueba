@@ -1,5 +1,21 @@
 body{
-    color: aquamarine;
+    color:black
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+#container h1 {
+    font-size: 40px;
+}
+#post{
+    font-size: 18px;
 }
